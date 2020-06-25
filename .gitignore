@@ -1,3 +1,7 @@
 # Project exclude paths
-/typescript-schema/dist/
-/typescript-schema/node_modules/
+.git
+node_modules
+.DS_Store
+.idea
+npm-debug.log
+dist/
