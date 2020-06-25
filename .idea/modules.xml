@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-subjects-and-multicasting-operators/01-subjects-and-multicasting-operators.iml" filepath="$PROJECT_DIR$/01-subjects-and-multicasting-operators/01-subjects-and-multicasting-operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-schedulers/02-schedulers.iml" filepath="$PROJECT_DIR$/02-schedulers/02-schedulers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-marble-testing/03-marble-testing.iml" filepath="$PROJECT_DIR$/03-marble-testing/03-marble-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-testing-w-subscribe-assert/04-testing-w-subscribe-assert.iml" filepath="$PROJECT_DIR$/04-testing-w-subscribe-assert/04-testing-w-subscribe-assert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-tips-and-tricks/05-tips-and-tricks.iml" filepath="$PROJECT_DIR$/05-tips-and-tricks/05-tips-and-tricks.iml" />
       <module fileurl="file://$PROJECT_DIR$/typescript-schema/typescript-schema.iml" filepath="$PROJECT_DIR$/typescript-schema/typescript-schema.iml" />
     </modules>
   </component>
