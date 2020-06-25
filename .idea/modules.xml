@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-subjects-and-multicasting-operators/01-subjects-and-multicasting-operators.iml" filepath="$PROJECT_DIR$/01-subjects-and-multicasting-operators/01-subjects-and-multicasting-operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/typescript-schema/typescript-schema.iml" filepath="$PROJECT_DIR$/typescript-schema/typescript-schema.iml" />
     </modules>
   </component>
