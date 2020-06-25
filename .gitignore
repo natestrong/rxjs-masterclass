@@ -1,0 +1,3 @@
+# Project exclude paths
+/typescript-schema/dist/
+/typescript-schema/node_modules/
