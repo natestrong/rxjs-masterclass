@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/03-marble-testing/03-marble-testing.iml" filepath="$PROJECT_DIR$/03-marble-testing/03-marble-testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-testing-w-subscribe-assert/04-testing-w-subscribe-assert.iml" filepath="$PROJECT_DIR$/04-testing-w-subscribe-assert/04-testing-w-subscribe-assert.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-tips-and-tricks/05-tips-and-tricks.iml" filepath="$PROJECT_DIR$/05-tips-and-tricks/05-tips-and-tricks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-01-subjects/lab-01-subjects.iml" filepath="$PROJECT_DIR$/lab-01-subjects/lab-01-subjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-02-store-with-subjects/lab-02-store-with-subjects.iml" filepath="$PROJECT_DIR$/lab-02-store-with-subjects/lab-02-store-with-subjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/typescript-schema/typescript-schema.iml" filepath="$PROJECT_DIR$/typescript-schema/typescript-schema.iml" />
     </modules>
   </component>
