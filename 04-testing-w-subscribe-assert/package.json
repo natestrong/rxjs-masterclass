@@ -17,7 +17,11 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
+    "@types/chai": "^4.2.11",
+    "@types/mocha": "^7.0.2",
+    "chai": "^4.2.0",
     "debug": "^4.1.1",
+    "mocha": "^8.0.1",
     "node-fetch": "^2.6.0",
     "rxjs": "^6.5.5"
   },
